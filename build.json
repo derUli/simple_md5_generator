@@ -1,0 +1,7 @@
+{
+   "id" : "simple_md5_generator",
+   "version" : "1.0",
+   "description" : "Simple MD5 Generator",
+   "categories" : ["md5", "hash", "admin", "tool", "utility"],
+   "compatible_from" : "2017.3.14"
+}
